@@ -3,6 +3,7 @@
 ![Screenshot](Pics/Screenshot.png)
 
 C++ game, let you play against the computer. Have a lovely TUI :)
+
 NOTE: Tested on Linux only.
 
 ---
